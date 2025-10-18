@@ -8,5 +8,7 @@ public class GitHubPractise {
 	@Test
 	public void test() {
 		WebDriver driver=new ChromeDriver();
+
+		WebDriver driver=new ChromeDriver();
 	}
 }
